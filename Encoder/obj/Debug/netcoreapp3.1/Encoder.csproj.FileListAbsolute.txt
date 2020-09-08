@@ -1,0 +1,13 @@
+C:\Users\User\workspace\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.exe
+C:\Users\User\workspace\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.deps.json
+C:\Users\User\workspace\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.runtimeconfig.json
+C:\Users\User\workspace\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.runtimeconfig.dev.json
+C:\Users\User\workspace\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.dll
+C:\Users\User\workspace\Encoder\Encoder\bin\Debug\netcoreapp3.1\Encoder.pdb
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.csprojAssemblyReference.cache
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.AssemblyInfoInputs.cache
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.AssemblyInfo.cs
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.dll
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.pdb
+C:\Users\User\workspace\Encoder\Encoder\obj\Debug\netcoreapp3.1\Encoder.genruntimeconfig.cache
